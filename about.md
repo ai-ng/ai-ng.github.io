@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, 
 
-This blog is all about Aritificial Intelligence (AI) and its applicability to solving problems in Nigeria. The AI renaissance (which is currently all about supervised machine learning) is underway and we want to ensure that Nigeria is not left out. It is currently managed by two AI enthusiasts (See [below](#bio)).
+This blog is all about Aritificial Intelligence (AI) and its applicability to solving problems in Nigeria. The AI renaissance (which is currently all about supervised machine learning) is underway and we want to ensure that Nigeria is not left out. It is currently managed by two AI enthusiasts (See [below](#aboutus)).
 
 We will be blogging about current AI techniques that works as well as research into techniques that will power future AI systems. We understand that the current knowledge that has been produced by the recent surge of AI research can be applied to some pretty interesting problems today (e.g. language translation systems, better photo filters, some aspect of self driving, generating codes from UI design and so on). Hence we want to enable the use of such techniques to produce AI technologies for the Nigerian environment.
 
@@ -19,7 +19,9 @@ Any AI enthusiasts, experts, researchers in Nigeria and all over the world are w
 
 You can get in touch [here](mailto:wecodeanything@outlook.com) and [here](mailto:mikaelovi@gmail.com)
 
-## BIO
+  
+
+## About Us
 ### Ese's Bio
 My name is Ese Ben, a programmer with strong interest in Artificial Intelligence. The human brain fascinates me, hence my interest in Artificial Intelligence. I also believe the field of neuroscience is nice and impactful. I have done some work in AI while studying at at undergraduate and graduate (MSC) levels, applying genetic algorithm to network security and neural network to machine vision. I am by no means an expert yet, but I am willing to share my understanding of AI.
 
