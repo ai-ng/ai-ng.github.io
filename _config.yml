@@ -2,7 +2,7 @@
 # Site settings
 title: AI-NG
 email: 
-description: "AI techniques and applications in Nigeria."
+description: "All things AI and (potential) application areas in Nigeria."
 baseurl: ""
 url: "http://ai-ng.github.io"
 twitter_username: deeplearnng
