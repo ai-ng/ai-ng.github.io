@@ -17,10 +17,10 @@ Each blog post can either be classifed as **technical (research related or theor
 
 Any AI enthusiasts, experts, researchers in Nigeria and all over the world are welcome to write guest blog post on this blog.
 
-You can get in touch [here](mailto:wecodeanything@outlook.com) and [here](mailto:mikaelovi@gmail.com)
+You can get in touch with us [here](mailto:wecodeanything@outlook.com) and [here](mailto:mikaelovi@gmail.com). We'd love to hear from you.
 
   
-
+  
 ## About Us
 ### Ese
 My name is Ese Ben, a programmer with strong interest in Artificial Intelligence. The human brain fascinates me, hence my interest in Artificial Intelligence. I also believe the field of neuroscience is nice and impactful. I have done some work in AI while studying at at undergraduate and graduate (MSC) levels, applying genetic algorithm to network security and neural network to machine vision. I am by no means an expert yet, but I am willing to share my understanding of AI.
