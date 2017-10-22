@@ -22,10 +22,10 @@ You can get in touch [here](mailto:wecodeanything@outlook.com) and [here](mailto
   
 
 ## About Us
-### Ese's Bio
+### Ese
 My name is Ese Ben, a programmer with strong interest in Artificial Intelligence. The human brain fascinates me, hence my interest in Artificial Intelligence. I also believe the field of neuroscience is nice and impactful. I have done some work in AI while studying at at undergraduate and graduate (MSC) levels, applying genetic algorithm to network security and neural network to machine vision. I am by no means an expert yet, but I am willing to share my understanding of AI.
 
 I have this conceptual view that a better understanding of the human brain will lead to advancement in AI (especially neural network) and reversing the equation, advancement in AI will lead to better understanding of the brain. The future of technology has AI written over it. People are going to interact with AI directly or indirectly as we already see in this early days. 
 
-### Ovie's Bio
+### Ovie
 My name is Michael Ovie (mikaelovi) and I am passionate about technology. My fascination about artificial intelligence dates back to my very first introduction to the field in my final year undergraduate days and ever since then, I have explored the field both in graduate and undergraduate levels. I love the rigor associated with research in this area and I am prepared for the exploits that follow. My immediate interest is to see how Nigeria becomes very much better by the intervention of AI technologies in providing personalized solutions to our needs as a people in the areas of security, transportation, business, lifestyle, to mention a few. I pledge to undertake this for the love of my country and so help me God.
