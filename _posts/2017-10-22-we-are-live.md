@@ -1,3 +1,8 @@
+---
+layout: post
+title: We are Live
+category: intro
+---
 ... and we're live ...
 We will be blogging about Artiificial Intelligence (AI) from different facets and its applicability to some interesting (or not so interesting) problems in Nigeria.  
 
