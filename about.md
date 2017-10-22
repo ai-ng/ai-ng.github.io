@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, 
 
-This blog is all about Aritificial Intelligence (AI) and its applicability to solving problems in Nigeria. The AI renaissance (which is currently all about supervised machine learning) is underway and we want to ensure that Nigeria is not left out. It is currently managed by two AI enthusiasts (See [below](#aboutus)).
+This blog is all about Aritificial Intelligence (AI) and its applicability to solving problems in Nigeria. The AI renaissance (which is currently all about supervised machine learning) is underway and we want to ensure that Nigeria is not left out. It is currently managed by two AI enthusiasts (See [below](#about-us)).
 
 We will be blogging about current AI techniques that works as well as research into techniques that will power future AI systems. We understand that the current knowledge that has been produced by the recent surge of AI research can be applied to some pretty interesting problems today (e.g. language translation systems, better photo filters, some aspect of self driving, generating codes from UI design and so on). Hence we want to enable the use of such techniques to produce AI technologies for the Nigerian environment.
 
