@@ -6,4 +6,7 @@ description: "All things AI and (potential) application areas in Nigeria."
 baseurl: ""
 url: "http://ai-ng.github.io"
 twitter_username: deeplearnng
-pagination: 5
+pagination: 10
+disqus:
+    shortname: my_disqus_shortname
+
