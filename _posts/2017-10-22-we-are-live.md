@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title: We are Live
 category: intro
 ---
