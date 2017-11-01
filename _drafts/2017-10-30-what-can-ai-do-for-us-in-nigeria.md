@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: What can AI do for us in Nigeria?
 category: intro
 ---
@@ -45,7 +46,7 @@ According to this [talk](https://youtu.be/OmugiPdc9QY?list=PLOb_h4hKJ00qt9eoBLr3
 
 However, another cause of wastage comes from diseases attacking crops/animal before (during growth stage) and after harvest period. AI can be used to tackle this challenge, by building systems that monitors crops and animals and then predict disease outbreak before they even occur. For most part, such systems built by technologist are mostly vision related (i.e. may include the use of drones - for movement across farm and camera(s) mounted on drones to capture images that will be feed into the AI model for prediction.
 
-Another AI use case to improve effiency involves developing an easy to use vision system to automate crop classification during harvest. For more application areas we found searching the web are listed below for your reading pleasure (some of these suggestion may not apply to the Nigerian context of farming as explained earlier): [link1](http://ai.business/2016/05/06/artificial-intelligence-in-agriculture-part-2-how-farming-is-going-automated-with-ai-technologies/), [link2](https://www.yenlo.com/blog/5-applications-of-artificial-intelligence-that-are-used-and-useful), [link3](https://www.quora.com/What-are-some-applications-of-AI-in-the-field-of-agriculture).
+Another AI use case to improve effiency involves developing an easy to use vision system to automate crop classification during harvest. For more application areas we found searching the web are listed below for your reading pleasure (some of these suggestion may not apply to the Nigerian context of agriculture as explained earlier): [link1](http://ai.business/2016/05/06/artificial-intelligence-in-agriculture-part-2-how-farming-is-going-automated-with-ai-technologies/), [link2](https://www.yenlo.com/blog/5-applications-of-artificial-intelligence-that-are-used-and-useful), [link3](https://www.quora.com/What-are-some-applications-of-AI-in-the-field-of-agriculture).
 
 
 ## In conclusion...
