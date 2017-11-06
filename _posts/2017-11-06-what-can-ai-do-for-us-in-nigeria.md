@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: What can AI do for us in Nigeria?
 category: intro
+excerpts: In this post, we focus on establishing the need for AI in Nigeria (which can also apply to other countries) through the perspective of problems well suited for AI to solve.
 ---
 
 > TL; DR
