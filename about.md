@@ -23,7 +23,7 @@ You can get in touch with us [here](mailto:wecodeanything@outlook.com) and [here
   
 ## About Us
 ### Ese
-My name is Ese Ben, a programmer with strong interest in Artificial Intelligence (AI). The human brain fascinates me, hence my interest in AI. Also, the field of neuroscience is interesting and will play a role towards building stronger AI systems. I have done some work in AI while studying at at undergraduate and graduate (Msc) levels, applying genetic algorithm to network security and neural network to machine vision. I am by no means an expert yet, but I am willing to share my understanding of AI.
+My name is Ese Ben, a programmer with strong interest in Artificial Intelligence (AI). The human brain fascinates me, hence my interest in AI. Also, the field of neuroscience is interesting and will play a role towards building stronger AI systems. I have done some work in AI while studying at undergraduate and graduate (Msc) levels, applying genetic algorithm to network security and neural network to machine vision respectively. I am by no means an expert yet, but I am willing to share my understanding of AI.
 
 I have this conceptual view that a better understanding of the human brain will lead to advancement in AI (especially neural network) and vice versa. The future of technology has AI written over it. People are going to interact with AI directly or indirectly as we already see in this early days. 
 
