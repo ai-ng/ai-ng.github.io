@@ -1,6 +1,14 @@
+---
+layout: post
+comments: true
+title: Learning System (Machine Learning Intro)
+category: intro
+excerpt: In this post we focused on Learning systems, giving a very high level overview of Machine Learning, different types of Learning systems.
+---
+
 Hi readers,
 
-This blog post will focus on Learning systems, giving a very high level overview of **Machine Learning**, different types of Learning systems.
+This blog post focused on Learning systems, giving a very high level overview of **Machine Learning**, different types of Learning systems.
 
 ## Learning systems
 As described from the previous blog post, **Learning** is a sub-field of AI research that focus on designing and developing intelligent machines that learns from examples (data). The fancy term used to describe activities involving research, development and deployment of Learning systems is **Machine Learning**. Simply put, Machine Learning is a sub-field of AI. Common AI techniques applied in Machine Learning includes; Aritificial Neural Networks (ANN), Support Vector Machines, Logistic Regression, K-means clustering etc. ANN is the most common technique used in Machine Learning, and its recent successes lead to the creation of a new sub-field (in Machine Learning) called **Deep Learning** (more on this later).
@@ -14,7 +22,7 @@ There are three major types of Learning which heavily influence how we design an
 ## Supervised Learning
 Supervised Learning focuses on designing and building learning system that are given examples (data) with labels (correct answer) assigned to each example. A good example of supervised learning process is depicted in how children are taught how to recognise objects (from drawings or images) in primary (elementary) schools. For example, a teacher will show students an "image/drawing of a ball" and then tell students that the object is a "ball". In this example, the image/drawing is the **example (data)** and the word “ball” is the **label** assigned to the example. Therefore, we can think of supervised learning as a **passive form of learning**. In essence, supervised learning enables learning systems to deduce patterns/co-relations between examples and their corresponding labels. Once this co-relation is learnt, the system should be able to use the knowledge to predict (to a certain degree of accuracy), what will be the label of an example (data) that it has not seen before. Continuing from our previous example, the teacher may decide to show the students another image/drawing of different ball and ask them what is the correct answer.
 
-In recent years, this has been the most successful type of Learning, making its way out of research papers into real world practical applications ranging from speech recognition (think of amazon’s alexa, apple’s siri, google voice), natural language translation (e.g. french to english), facebook photo tagger, google photo search engine, self driving cars and so on.
+In recent years, this has been the most successful type of Learning, making its way out of research papers into real world practical applications ranging from speech recognition (think of Amazon's alexa, Apple's siri, Google speaker), natural language translation (e.g. french to english), facebook photo tagger, google photo search engine, self driving cars and so on.
 
 
 ## Reinforcement Learning
