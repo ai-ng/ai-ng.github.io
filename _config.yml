@@ -4,8 +4,8 @@ title: AI-NG
 email: 
 description: "All things AI and (potential) application areas in Nigeria."
 baseurl: ""
-url: "http://ai-ng.github.io"
-twitter_username: deeplearnng
+url: "http://ngrai.github.io"
+twitter_username: ngrai_
 pagination: 10
 disqus:
     shortname: ai-ng-github-io
