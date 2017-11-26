@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Learning System (Machine Learning Intro)
+title: Learning Systems (Machine Learning)
 category: intro
 excerpt: In this post we focused on Learning Systems, giving a very high level overview of Machine Learning and different types of Learning Systems.
 ---
@@ -11,7 +11,7 @@ Hi readers,
 This blog post focused on Learning systems, giving a very high level overview of **Machine Learning** and different types of Learning Systems.
 
 ## Learning Systems
-As described from the [previous blog post]({{site.url}}/intro/2017/11/15/ai-intro.html), **Learning** is a sub-field of AI research that focus on designing and developing intelligent machines that learns from examples (data). The fancy term used to describe activities involving research, development and deployment of Learning systems is **Machine Learning**. Simply put, Machine Learning is a sub-field of AI. Common AI techniques applied in Machine Learning includes; Aritificial Neural Networks (ANN), Support Vector Machines, Logistic Regression, K-means clustering etc. ANN is the most common technique used in Machine Learning, and its recent successes lead to the creation of a new sub-field (in Machine Learning) called **Deep Learning** (more on this later).
+As described from the [previous blog post]({{site.url}}/intro/2017/11/15/ai-intro.html), **Learning** is a sub-field of AI research that focus on designing and developing intelligent machines that learns from examples (data). The fancy term used to describe activities involving research, development and deployment of Learning systems is **Machine Learning**. Simply put, Machine Learning is a sub-field of AI. Common AI techniques applied in Machine Learning includes; Aritificial Neural Networks (ANN), Support Vector Machines, Logistic Regression, K-means clustering, Random Forest, Gradient Boosting etc. ANN is the most common technique used in Machine Learning, and its recent successes lead to the creation of a new sub-field (in Machine Learning) called **Deep Learning** (more on this later).
 
 ## Types of Learning
 There are three major types of learning which influence how we design and develop our Learning Sytems. They are:
