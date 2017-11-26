@@ -1,3 +1,11 @@
+---
+layout: post
+comments: true
+title: Deep Learning Introduction
+category: intro
+excerpt: Deep learning is a subfield of Machine learning. The best way to explain deep learning is to take a sneak peak into history. So here goes our attempt to explain ...
+---
+
 Hello,
 
 Continuing from our [last blog post]({{ site.url }}/intro/2017/11/20/Learning-Systems.html) on **Machine Learning**, this blog post will focused on providing an overview of **Deep learning**.
