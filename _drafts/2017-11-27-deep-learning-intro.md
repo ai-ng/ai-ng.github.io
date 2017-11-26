@@ -8,7 +8,7 @@ excerpt: Deep learning is a subfield of Machine learning. The best way to explai
 
 Hello,
 
-Continuing from our [last blog post]({{site.url}}/intro/2017/11/20/Learning-Systems.html) on **Machine Learning**, this blog post will focused on providing an overview of **Deep learning**.
+Continuing from our [last blog post]({{site.url}}/intro/2017/11/20/learning-systems.html) on **Machine Learning**, this blog post will focused on providing an overview of **Deep learning**.
 
 ## Deep Learning
 Deep learning is a subfield of Machine learning. The best way to explain deep learning is to take a sneak peak into history. So here goes our attempt to explain to you what deep learning is really about.
